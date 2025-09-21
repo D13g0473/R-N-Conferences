@@ -33,7 +33,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno de desarrollo local.
 
 1.  **Clona el repositorio (si aplica):**
     ```bash
-    git clone <URL-DEL-REPOSITORIO>
+    git clone https://github.com/D13g0473/R-N-Conferences.git
     cd conferencias
     ```
 
