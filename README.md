@@ -1,50 +1,59 @@
-# Welcome to your Expo app 👋
+# App de Conferencias de Cerveceros
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Esta es una aplicación móvil desarrollada con React Native y Expo que sirve como guía para un evento de conferencias de cerveceros artesanales. La app permite a los usuarios explorar las diferentes charlas, ver sus detalles y ubicar los lugares del evento en un mapa interactivo.
 
-## Get started
+## ✨ Características Principales
 
-1. Install dependencies
+- **Lista de Conferencias:** Visualiza una lista de 10 conferencias programadas, con información clave como el título, el ponente, el horario y el lugar.
+- **Detalle de Conferencia:** Accede a una pantalla con información detallada de cada conferencia, incluyendo una descripción completa.
+- **Mapa Interactivo:** Explora un mapa con marcadores para todas las cervecerías donde se realizan las conferencias.
+- **Navegación al Mapa:** Desde la pantalla de detalle, un botón permite ir directamente al mapa, centrando la vista y resaltando la ubicación de esa conferencia en particular.
+- **Persistencia Local:** La información de las conferencias se almacena en una base de datos SQLite local en el dispositivo, permitiendo el acceso sin conexión a internet después de la primera carga.
 
-   ```bash
-   npm install
-   ```
+## 🛠️ Tecnologías Utilizadas
 
-2. Start the app
+- **React Native:** Framework para el desarrollo de aplicaciones móviles multiplataforma.
+- **Expo:** Plataforma y conjunto de herramientas para facilitar el desarrollo, la compilación y la publicación de apps de React Native.
+- **Expo Router:** Sistema de navegación basado en archivos para una estructura de rutas intuitiva.
+- **TypeScript:** Superset de JavaScript para un desarrollo más robusto y escalable.
+- **Expo-SQLite:** Para la gestión de la base de datos local en el dispositivo.
+- **React Native Maps:** Para la integración y visualización de mapas.
 
-   ```bash
-   npx expo start
-   ```
+## 🚀 Instalación y Puesta en Marcha
 
-In the output, you'll find options to open the app in a
+Sigue estos pasos para ejecutar el proyecto en tu entorno de desarrollo local.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### Prerrequisitos
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- [Node.js](https://nodejs.org/) (versión LTS recomendada)
+- `npm` o `yarn` como gestor de paquetes.
+- La aplicación **Expo Go** instalada en tu dispositivo móvil (iOS o Android) o un emulador configurado.
 
-## Get a fresh project
+### Pasos
 
-When you're ready, run:
+1.  **Clona el repositorio (si aplica):**
+    ```bash
+    git clone <URL-DEL-REPOSITORIO>
+    cd conferencias
+    ```
 
-```bash
-npm run reset-project
-```
+2.  **Instala las dependencias:**
+    ```bash
+    npm install
+    ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+3.  **Inicia el servidor de desarrollo de Expo:**
+    ```bash
+    npx expo start
+    ```
 
-## Learn more
+4.  **Ejecuta la aplicación:**
+    - Escanea el código QR que aparece en la terminal con la cámara de tu teléfono (iOS) o desde la app Expo Go (Android).
 
-To learn more about developing your project with Expo, look at the following resources:
+## 📜 Scripts Disponibles
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- `npm start`: Inicia el servidor de desarrollo de Expo.
+- `npm run android`: Inicia la app en un emulador de Android o dispositivo conectado.
+- `npm run ios`: Inicia la app en un simulador de iOS o dispositivo conectado.
+- `npm run web`: Inicia la app en un navegador web (puede tener limitaciones de compatibilidad).
+- `npm run lint`: Ejecuta el linter (`expo lint`) para analizar el código en busca de errores y problemas de estilo.
