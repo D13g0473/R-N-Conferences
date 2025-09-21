@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Introducción a las Sour",
+    "speaker": "Ana López",
+    "description": "Una charla para principiantes sobre el fascinante mundo de las cervezas ácidas y la fermentación mixta.",
+    "image": "https://media.istockphoto.com/id/962904030/photo/beer-tap.jpg?s=1024x1024&w=is&k=20&c=b4_fjoQxQzuOKjskU2sWKRHp7pqoc7Urod5RGeSXf3s=",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "venue_name": "Drakkar",
+    "latitude": -32.480516,
+    "longitude": -58.233872
+  },
+  {
+    "id": 2,
+    "title": "El Arte del Dry Hopping",
+    "speaker": "Carlos Martínez",
+    "description": "Técnicas avanzadas de dry hopping para maximizar el aroma y sabor en tus IPAs.",
+    "image": "https://media.istockphoto.com/id/1214471145/photo/pouring-beer.jpg?s=1024x1024&w=is&k=20&c=UAOVhwddO4qmfcdof0Ja011v_mwxVehQZXxlXDYJP0Q=",
+    "start_time": "15:30",
+    "end_time": "16:15",
+    "venue_name": "7 Colinas",
+    "latitude": -32.480006,
+    "longitude": -58.235155
+  },
+  {
+    "id": 3,
+    "title": "Manejo de Levaduras Kveik",
+    "speaker": "Laura Gómez",
+    "description": "Aprende a utilizar las versátiles levaduras noruegas Kveik para fermentaciones rápidas y a alta temperatura.",
+    "image": "https://media.istockphoto.com/id/1026263420/photo/beer-tap.jpg?s=1024x1024&w=is&k=20&c=QPbdapproquQ3cElIf0nDQ9GkbgWYcKz9xKbby89jWg=",
+    "start_time": "16:00",
+    "end_time": "16:45",
+    "venue_name": "Lagash",
+    "latitude": -32.477311,
+    "longitude": -58.248222
+  },
+  {
+    "id": 4,
+    "title": "Cervezas de Guarda: Añejamiento",
+    "speaker": "Javier Rodríguez",
+    "description": "Explorando los secretos del añejamiento en barrica y botella para cervezas complejas y potentes.",
+    "image": "https://media.istockphoto.com/id/1322726491/photo/hand-of-a-bartender-serving-craft-beer-drink-in-a-restaurant-details-of-the-glass-and-vending.jpg?s=1024x1024&w=is&k=20&c=RMeDv6eJPSxmkPNXTJXUioLX6TEkWfDqDO7goRHjA_8=",
+    "start_time": "16:30",
+    "end_time": "17:15",
+    "venue_name": "Biguá",
+    "latitude": -32.486453,
+    "longitude": -58.270833
+  },
+  {
+    "id": 5,
+    "title": "Filtrado y Clarificación",
+    "speaker": "Sofía Fernández",
+    "description": "Métodos y buenas prácticas para obtener una cerveza más limpia y brillante sin perder carácter.",
+    "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "start_time": "17:00",
+    "end_time": "17:45",
+    "venue_name": "Klug Gebräu",
+    "latitude": -32.482266,
+    "longitude": -58.255281
+  },
+  {
+    "id": 6,
+    "title": "Hidromieles Modernas",
+    "speaker": "Ana López",
+    "description": "Más allá de la tradición, explorando nuevos ingredientes y técnicas en la elaboración de hidromiel.",
+    "image": "https://images.unsplash.com/photo-1567696911980-2eed69a46042?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "start_time": "18:00",
+    "end_time": "18:45",
+    "venue_name": "Drakkar",
+    "latitude": -32.480516,
+    "longitude": -58.233872
+  },
+  {
+    "id": 7,
+    "title": "Marketing para Cerveceros",
+    "speaker": "David Sánchez",
+    "description": "Estrategias de branding y redes sociales para destacar tu marca en un mercado competitivo.",
+    "image": "https://images.unsplash.com/photo-1618183479302-1e0aa382c36b?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "start_time": "18:30",
+    "end_time": "19:15",
+    "venue_name": "7 Colinas",
+    "latitude": -32.480006,
+    "longitude": -58.235155
+  },
+  {
+    "id": 8,
+    "title": "Física y Química del Agua",
+    "speaker": "Laura Gómez",
+    "description": "Cómo ajustar el perfil del agua para replicar estilos clásicos y mejorar la calidad de tu cerveza.",
+    "image": "https://media.istockphoto.com/id/2149119628/photo/close-up-of-hand-filling-pint-glass-with-stout-from-draught-beer-tap-in-pub-cold-refreshing.jpg?s=1024x1024&w=is&k=20&c=VS-I-fWEhoA0VUYyrDTXxfvEXMLGWZ4AqLQp--6HoY8=",
+    "start_time": "19:00",
+    "end_time": "19:45",
+    "venue_name": "Lagash",
+    "latitude": -32.477311,
+    "longitude": -58.248222
+  },
+  {
+    "id": 9,
+    "title": "Diseño de Recetas con Software",
+    "speaker": "Javier Rodríguez",
+    "description": "Utilizando herramientas como BeerSmith y Brewfather para diseñar y escalar tus recetas con precisión.",
+    "image": "https://media.istockphoto.com/id/1381344700/photo/tapping-a-half-dark-and-half-light-beer-into-a-mug-by-a-bartender.jpg?s=1024x1024&w=is&k=20&c=KcDIc6DHruZL08Td_h8P3paYGBsM7exjvUpx9Du7-PY=",
+    "start_time": "19:30",
+    "end_time": "20:15",
+    "venue_name": "Biguá",
+    "latitude": -32.486453,
+    "longitude": -58.270833
+  },
+  {
+    "id": 10,
+    "title": "Lagers Perfectas en Casa",
+    "speaker": "Sofía Fernández",
+    "description": "Técnicas de fermentación y maduración en frío para lograr Lagers limpias y refrescantes.",
+    "image": "https://plus.unsplash.com/premium_photo-1722168009723-ff75c2f1abdb?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "start_time": "20:00",
+    "end_time": "20:45",
+    "venue_name": "Klug Gebräu",
+    "latitude": -32.482266,
+    "longitude": -58.255281
+  }
+]
